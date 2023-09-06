@@ -1,1 +1,1 @@
-저는 Master Branch 입니다.
+저는 [ 1 ] Branch 입니다.
